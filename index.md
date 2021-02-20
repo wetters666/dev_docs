@@ -4,7 +4,7 @@
 
 ## ミニゲーム
 
-- [](./silhouette/index.md)
+- [シルエット・マットレス](./silhouette/index.md)
 
 ## コミュニティで使うツール
 
