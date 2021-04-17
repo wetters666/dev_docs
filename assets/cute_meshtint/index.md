@@ -19,5 +19,6 @@
 ## 目次
 
 - [3D空間を動けるようにする](./tutorial.md)
+- [3Dモデルの内容の確認](./model_structure.md)
 
 
