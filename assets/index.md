@@ -13,7 +13,3 @@
 
 - [3D素材](./models_3d/index.md)
 
-### Lowpoly Forest Ruins
-
-![forest_ruins_thumb](./media/forest_ruins_thumb.png)
-
