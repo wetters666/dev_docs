@@ -1,6 +1,6 @@
 # 3D空間を動けるようにする - Cute Series (MESHTINT)
 
-- [目次へ](./../index.md)
+- [目次へ](./index.md)
 
 [こちらのページ](https://takanashi1443.github.io/dev_note/template/)の「とりあえずキャラクターで3D空間を動けるようにする」を参照する。
 
