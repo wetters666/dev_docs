@@ -62,8 +62,14 @@ Colorは同じく白である。
 
 ![model_structure_albedo](./media/model_structure_albedo.png)
 
-### 顔の構造
+### 持ち物のマテリアル
 
+持ち物には「Weapons And Props」という（やはり単一の）マテリアルが割り当てられている。
+
+このテクスチャも他と同様、縦縞のテクスチャとなっているが、
+色を変更することは想定していないようだ（もちろん変更すること自体は可能）。
+
+![model_structure_material_texture_props](./media/model_structure_material_texture_props.png)
 
 
 
